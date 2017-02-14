@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "The First Workshop - A Subtle Leadership Moment"
 date:   2017-02-10 16:16:01 -0800
 categories: workshops
