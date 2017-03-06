@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Case-study based workshops to improve your team's tech leadership skills. Yours to run at your company or at your next Meetup!
+## Case-study based workshops to improve your team's tech leadership skills. Open sourced for you to run at your company or at your next Meetup!
 
 ### Welcome, (future) tech lead!
 
-Becoming a great tech lead, senior software engineer, architect, principal engineer, whatever you want to call it, takes time and practice to develop all the skills they didn't tech you in computer sciene. 
+Becoming a great tech lead, senior software engineer, architect, principal engineer, whatever you want to call it, takes time and practice. 
 
-They call them soft skills because they can't *really* be studied. Without practice, you're going to bumble through the role until situations come up to teach you the "soft" skills you need. **Let's short circuit that process and get some practice.**
+Use these open source workshops to help you develop skills before you need them.
 
 ### Get Some Practice &bull; Be a Leader &bull; Get Started
 You can read about leadership and study it all you want, but you won't get real practice until real leadership moments come up. Leadership is like public speaking in that way.
