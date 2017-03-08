@@ -11,7 +11,7 @@ Becoming a great tech lead, senior software engineer, architect, principal engin
 Use these open source workshops to help you develop skills before you need them.
 
 ### Get Some Practice &bull; Be a Leader &bull; Get Started
-You can read about leadership and study it all you want, but you won't get real practice until real leadership moments come up. Leadership is like public speaking in that way.
+You can read about leadership and study it all you want, but you won't get real practice until real leadership moments come up. Leadership is like public speaking in that way -- the only way to get good is to practice.
 
 These **tech lead workshops** are designed to give you and your team some practice before the situations come up.
 
