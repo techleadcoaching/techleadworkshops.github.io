@@ -7,7 +7,7 @@ author: michael
 excerpt_separator: <!--more-->
 ---
 
-This workshop explores a common, ambiguous work situation. You are a new, junior software engineer on a team at a big company. Work through the ambiguity to find moments to lead, get some results, and improve your engineering team's culture and effectiveness. 
+Start here. This workshop explores a common, ambiguous work situation. You are a new, junior software engineer on a team at a big company. Work through the ambiguity to find moments to lead, get some results, and improve your engineering team's culture and effectiveness. 
 
 <!--more-->
 
