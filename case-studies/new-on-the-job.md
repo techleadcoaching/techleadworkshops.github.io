@@ -1,28 +1,27 @@
 ---
 layout: default
-title:  "Workshop 1: Welcome to the Team"
+title:  "Welcome to the Team"
 date:   2017-02-14 05:40:01 -0800
 categories: workshops
 author: michael
-excerpt_separator: <!--more-->
 ---
 
-Start here. This workshop explores a common, ambiguous work situation. You are a new, junior software engineer on a team at a big company. Work through the ambiguity to find moments to lead, get some results, and improve your engineering team's culture and effectiveness. 
+### Workshop No. 1: Welcome to the Team
 
-<!--more-->
+This workshop explores a common, ambiguous work situation. You are a new, junior software engineer on a team at a big company. Work through the ambiguity to find moments to lead, get some results, and improve your engineering team's culture and effectiveness. 
 
-### Narrative
+#### Narrative
 
 You started a new job at a big financial services company three months ago as a junior software engineer. Before this, you were working at a startup for two years (fresh out of computer science school). It flamed out but not before you got amazing full stack, agile experience. Actually, the startup didn’t really follow agile "processes," it just *was* agile. You shipped a few times per day. Code coverage was dependable, integration tests were fast, and it was frictionless to deploy. You touched the whole code base. Any tool you wanted, you could have. If a framework made sense, all you had to do was present it and the team would generally adopt it if it made sense. The code base was constantly refactored and groomed. 
 
-#### Your New Company
+##### Your New Company
 You loved the experience, but you're tired after all those late nights and weekends, so you joined a bigger, older, slower financial services company. They snapped you up because you knew Ruby and they liked your full stack experience. With over 100,000+ full time employees, this place seems enormous compared to your last job. 
 
 The managers talk about “going digital” and as a proof point to Wall Street they want to dramatically improve and modernize their investor relations portal. (An investor relations portal is a usually a section of a company’s site where investors and financial analysts can interact.) 
 
 You joined the investor relations engineering team to work on a four year old Rails-based site with many holes in its code coverage. It was originally written by an outside agency. The app uses many frameworks, much of the code hasn’t been touched for years, and it slows down and sometimes crashes under load but nobody is certain why. The company wants to rework it to make it faster, mobile friendly, and the person from the business keeps talking about more “digital” features, whatever that means. Almost nobody at the compay knows Ruby. 
 
-#### Your New Engineering Culture
+##### Your New Engineering Culture
 
 It took a few weeks to get your laptop, badge, and access to all the code, but now you’re three months on the job and you’ve been through a few sprints. At your old company, you spoke your mind freely. It could get chaotic and arguments broke out sometimes, but the best ideas usually won out. Here, the engineers are quiet and rarely speak during the “standups,” which are held sitting down in a conference room. Most bring their laptops and keep working through the standup. 
 
@@ -30,7 +29,7 @@ At first, you felt awkward and outspoken as you tried to participate in the stan
 
 In the past month or so you’ve fallen into the rhythm of things and dutifully give your updates at the standups. You don’t ask as many questions.
 
-#### Your New Team
+##### Your New Team
 
 Your team consists of three junior engineers, an architect, and an engineering manager. The manager is pleasant and talks about how she wants to support the team and create a safe environment, but you don’t see her much; she’s in meetings or in her office on the phone almost all day. She scheduled a series of 1:1s with you when you started, which have been mostly cancelled due to conflicts. 
 
@@ -40,7 +39,7 @@ It seems like the engineering manager adopts, without question, any decisions th
 
 You did get a chance to talk to him recently, however. You suggested changing the logging framework because the current code base uses some home-grown thing that doesn’t give you much useful debugging information. He said, “I own all that core code, and I just don’t have time to do stuff like that right now” before running off to another meeting. 
 
-#### Your Current Story and Tasks
+##### Your Current Story and Tasks
 
 A few weeks ago, during Sprint 32 planning, the engineering manager asked you to work closely with an engineer on the team to change to a new stock price provider’s API (a big part of the investor relations portal is displaying current and historical stock price of the company). The new API is supposed to provide faster stock quotes, which might be one of the performance problems, in addition to some data analytics features. It’s a REST-based, JSON API that seems straightforward to integrate with.
 
@@ -54,9 +53,9 @@ We’re now two days into Sprint 33. Your team mate got pulled into another prod
 
 It's Wednesday. There are eight days left in this sprint. **What will you do now?**
 
-### Workshop Instructions
+#### Workshop Instructions
 
-#### How to Organize the Workshop
+##### How to Organize the Workshop
 
 1. Ask participants to read the narrative (but not necessarily these instructions) before starting the workshop
 2. Ask four participants to play the role of (a) the new software engineer, (b) the other software engineer, (c) the architect, and (d) the engineering manager
@@ -65,7 +64,7 @@ It's Wednesday. There are eight days left in this sprint. **What will you do now
 
 Alternatively, you could vary the format to review the narrative as a panel discussion. In this variation, the group can discuss the problems with the situation and how they would address it. It may be a good idea to have at least two or three participants come prepared with a point of view to get the conversation going.
 
-#### Possible Questions to Raise During the Workshop
+##### Possible Questions to Raise During the Workshop
 
 * Explore what you (as the new engineer) really wants in the situation? Do you want the situation to be different?
 * If you do, articulate in detail what the future look like for the team?
@@ -77,6 +76,6 @@ Alternatively, you could vary the format to review the narrative as a panel disc
 * Even as a new member of the team, you come with a lot of competence and skill. What are some ways you could you demonstrate it here?
 * How would you articulate a vision for this feature and how to implement it? Who would you enlist to help?
 
-#### Give Us Feedback!
+##### Give Us Feedback!
 
 We want to know how the workshop went. Fork this repo and submit a pull request or just drop an email to [Michael Rice](mailto:me@michaelrice.com).

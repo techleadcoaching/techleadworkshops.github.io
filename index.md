@@ -2,13 +2,10 @@
 layout: default
 ---
 
-{% for post in site.categories["workshops"]  %}
-  **[{{ post.title }}]({{ post.url }})** - {{post.excerpt  | remove: '<p>' | remove: '</p>'}}
-{% endfor %}
+**Workshop No. 1**: [Welcome to the Team](/case-studies/new-on-the-job.html)
+This workshop explores a common, ambiguous work situation. You are a new, junior software engineer on a team at a big company. Work through the ambiguity to find moments to lead, get some results, and improve your engineering team's culture and effectiveness. 
 
 <i class="fa fa-list-alt" aria-hidden="true"></i> <i class="fa fa-exclamation-circle" aria-hidden="true"></i> More to come. 
-
-&nbsp;
 
 &nbsp;
 
