@@ -2,14 +2,17 @@
 layout: default
 ---
 
-**Workshop No. 1**: [Welcome to the Team](/case-studies/new-on-the-job.html)
-This workshop explores a common, ambiguous work situation. You are a new, junior software engineer on a team at a big company. Work through the ambiguity to find moments to lead, get some results, and improve your engineering team's culture and effectiveness. 
+### First, Choose a Case Study:
 
-<i class="fa fa-list-alt" aria-hidden="true"></i> <i class="fa fa-exclamation-circle" aria-hidden="true"></i> More to come. 
+**[Sprint Planning Impasse](/case-studies/sprint-planning-impasse.html)** You're the tech lead in a spring planning meeting with five software engineers. Your engineering manager relies on you and wants some kind of prototype at the end of this sprint, but the other senior engineer in the room refuses to write a line of code until all the design and architecture is done. What will you do now?
+
+**[Welcome to the Team](/case-studies/new-on-the-job.html)** This workshop explores a common, ambiguous work situation. You are a new, junior software engineer on a team at a big company. Work through the ambiguity to find moments to lead, get some results, and improve your engineering team's culture and effectiveness. 
+
+<i class="fa fa-list-alt" aria-hidden="true"></i> <i class="fa fa-exclamation-circle" aria-hidden="true"></i> More to come . . .
 
 &nbsp;
 
-### Welcome, (future) tech lead!
+### And Now, Welcome, (Future) Tech Lead!
 
 And welcome to the journey into leadership. Becoming a great tech lead, senior software engineer, architect, principal engineer, whatever you want to call it, takes time and practice. 
 
