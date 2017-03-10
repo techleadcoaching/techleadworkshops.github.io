@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }} - Case Study - {{ page.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/solo.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
+  {% if site.font-awesome-include %}<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">{% endif %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/rrssb.css">
+
+  <script src="{{ site.baseurl }}/scripts/jquery.js"></script>
+  <link rel="canonical" href="{{ site.url }}" />
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.min.css" />
+  <!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+  <![endif]-->
+
+</head>
+<body>
+  <article>
+   <div class="container">
+    <div align="right">
+      <a href="/blog.html">blog <i class="fa fa-rss" aria-hidden="true"></i></a> &bull; <a href="https://twitter.com/techleadsnow">@techleadsnow <i class="fa fa-twitter" aria-hidden="true"></i></a> &bull; <a href="https://www.meetup.com/Tech-Lead-Workshops-Los-Angeles/">los angeles <i class="fa fa-meetup" aria-hidden="true"></i></a>
+    </div>
+    <h1><a href="/">{{ site.tag_text }}</a></h1>
+
+
+    <h3>Case Study: {{page.title}}</h3>
+
+    <i class="fa fa-clock-o" aria-hidden="true"></i> reading time: {{ page.readingTime }}<br/>
+    <i class="fa fa-clock-o" aria-hidden="true"></i> prep time: {{ page.prepTime }}<br/>
+    <i class="fa fa-building-o" aria-hidden="true"></i> environment: {{ page.environment }}<br/>
+    <i class="fa fa-folder-open-o" aria-hidden="true"></i> context: {{ page.context }} <br/>
+    <i class="fa fa-user-o" aria-hidden="true"></i> leadership traits: {{ page.traitsExplored }}
+
+    <p>&nbsp;</p>
+
+    {{ content }}
+
+
+    <h4>Workshop Guidance</h4>
+
+    <h5>Organizing the Workshop</h5>
+
+    <ol>
+      <li>Ask participants to read the narrative before starting the workshop</li>
+      <li>Ask some participants to play the roles of the people mentioned in the case study</li>
+      <li>Act it out</li>
+      <li>Ask the audience to discuss the performance</li>
+    </ol>
+
+    <p>Alternatively, you could vary the format to review the narrative as a panel discussion. In this variation, the group can discuss the problems with the situation and how they would address it. It may be a good idea to have at least two or three participants come prepared with a point of view to get the conversation going.</p>
+
+    <h5>Initial Questions to Raise During the Workshop</h5>
+
+    <ul>
+      <li>Explore what you (in whatever role) really wants in the situation? Do you want the situation to be different? How?</li>
+      <li>If you do, articulate in detail what the future look like for the team?</li>
+      <li>What choices do you have to make for yourself if you want to lead the change?</li>
+      <li>What internal decisions do you, as the junior engineer, need to make, if any, when you decide to change the situation?</li>
+      <li>If you do want to drive change, how do you teal with the reality that you’re not the manager and you’re new? How can you lead, nonetheless?</li>
+      <li>What do you need to be honest with yourself in the situation?</li>
+      <li>How can you “inspire” the people on the team? Inspiring is about showing enthusiasm, excitement, and energy about the possibilities ahead. It signals energy and personal commitment. Do you see any opportunities here?</li>
+      <li>No matter your role in the case study, you come with a lot of competence and skill. What are some ways you could you demonstrate it effectively here?</li>
+      <li>How would you articulate a vision for this feature and how to implement it? Who would you enlist to help?</li>
+    </ul>
+
+    <h5>Give Us Feedback!</h5>
+
+    <p>We want to know how the workshop went. Fork this repo and submit a pull request or just drop an email to <a href="mailto:me@michaelrice.com">Michael Rice</a>.</p>
+
+    </div>
+  </article>
+  <a class="github-fork-ribbon" href="https://github.com/techleadworkshops/techleadworkshops.github.io" title="Fork me on GitHub">Fork me on GitHub</a>
+
+<script src="{{ site.baseurl }}/scripts/rrssb.min.js"></script>
+</body>
+</html>

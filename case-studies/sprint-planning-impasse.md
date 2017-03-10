@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: case-study
 title:  "Sprint Planning Impasse"
 date:   2017-03-09 21:43:01 -0800
 categories: case-study
@@ -10,8 +10,6 @@ environment: corporate
 context: software-engineering
 traitsExplored: forward-looking
 ---
-
-### Case Study: {{page.title}}
 
 You’re sitting in a sprint planning meeting with a scrum master and five other developers. You’re a senior software engineer, and your engineering manager relies on you to be her surrogate (e.g., the tech lead) most of the time. Today, she’s nowhere to be found since she’s got two other teams and projects to keep track of too. 
 
