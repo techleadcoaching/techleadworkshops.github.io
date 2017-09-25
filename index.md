@@ -2,17 +2,27 @@
 layout: default
 ---
 
-### First, Choose a Case Study:
+### First, Learn the Framework
+
+There are lots of ways to be a great tech lead. Tech Lead Workshops follow a prescriptive, simple approach geared toward novices:
+
+1. **Capture and Articulate a Vision** No matter whether you're trying to lead a huge project or a small product feature, it's helpful to have a clear and compelling vision for your team.
+2. **Evangelize** Tech Leads need to connect one on one with the members of and stakeholders to the team to make sure the vision resonates and animates individually.
+3. **Coach and Connect** Manage the daily daily build by connecting the daily grind to the vision, and protect the culture in the process.
+
+### Second, Choose a Case Study
+
+Tech Lead Workshops follow a case study method. 
 
 **[Sprint Planning Impasse](/case-studies/sprint-planning-impasse.html)** You're the tech lead in a spring planning meeting with five software engineers. Your engineering manager relies on you and wants some kind of prototype at the end of this sprint, but the other senior engineer in the room refuses to write a line of code until all the design and architecture is done. What will you do now?
 
 **[Welcome to the Team](/case-studies/new-on-the-job.html)** This workshop explores a common, ambiguous work situation. You are a new, junior software engineer on a team at a big company. Work through the ambiguity to find moments to lead, get some results, and improve your engineering team's culture and effectiveness. 
 
-<i class="fa fa-list-alt" aria-hidden="true"></i> <i class="fa fa-exclamation-circle" aria-hidden="true"></i> More to come . . .
+<i class="fa fa-list-alt" aria-hidden="true"></i> <i class="fa fa-exclamation-circle" aria-hidden="true"></i> more to come . . .
 
 &nbsp;
 
-### And Now, Welcome, (Future) Tech Lead!
+### Third, Join a Workshop
 
 And welcome to the journey into leadership. Becoming a great tech lead, senior software engineer, architect, principal engineer, whatever you want to call it, takes time and practice. 
 
