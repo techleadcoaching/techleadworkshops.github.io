@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**NOTE:** Our first Tech Lead Workshops Meetup will be November 1, 2017 at Riot Games in Santa Monica, California. [Join Us](https://www.meetup.com/preview/Tech-Lead-Workshops-Los-Angeles/events/243662476)
+
 ### First, Learn the Framework
 
 There are lots of ways to be a great tech lead. Tech Lead Workshops follow a prescriptive, simple approach geared toward novices:
