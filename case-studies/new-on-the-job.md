@@ -31,9 +31,9 @@ In the past month or so you’ve fallen into the rhythm of things and dutifully 
 
 ##### Your New Team
 
-Your team consists of three junior engineers, an architect, and an engineering manager. The manager is pleasant and talks about how she wants to support the team and create a safe environment, but you don’t see her much; she’s in meetings or in her office on the phone almost all day. She scheduled a series of 1:1s with you when you started, which have been mostly cancelled due to conflicts. 
+Your team consists of three junior engineers, an architect, and an engineering manager. The manager is pleasant and talks about how she wants to support the team and create a safe environment, but you don’t see her much; she’s in meetings or in her office on the phone almost all day. She scheduled a series of one on ones with you when you started, which have been mostly cancelled due to conflicts. 
 
-The architect has been with the company for almost ten years. He’s been working on the investor relationships code base ever since the company insourced the site and fired the agency who originally built it. 
+The architect has been with the company for almost ten years. He’s been working on the IR portal's code base ever since the company insourced the site and fired the agency who originally built it. 
 
 It seems like the engineering manager adopts, without question, any decisions the architect makes. He does not engage you often, but the business talks almost exclusively to him, which is a relief because they seem impatient and demanding. Like the manager, he’s in meetings almost all day, every day. 
 
